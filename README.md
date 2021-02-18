@@ -22,10 +22,8 @@ TODO
 
 ----------------------------
 #### Colaboradores
-Roberto Bezerra Morel Lopes
-roberto.morel@hotmail.com
-[ LinkedIn ](https://www.linkedin.com/in/roberto-morel-6b9065193/)
+[ Roberto Bezerra Morel Lopes ](https://www.linkedin.com/in/roberto-morel-6b9065193/)
 
-Lucas...
+[ Lucas ](https://www.linkedin.com/in/)
 
-Venicius...
+[ Venicius ](https://www.linkedin.com/)
