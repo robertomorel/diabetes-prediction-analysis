@@ -1,4 +1,5 @@
 # Projeto de BI - Ciência de Dados
+## Pós-Graduação - UNI7
 
 ### OBJETIVO
 TODO
@@ -8,10 +9,10 @@ TODO
 ### Features 
 - TODO
 
-### Graphs
+### Gráficos
 - TODO
 
-### Results
+### Resultados
 - TODO
 
 ----------------------------
