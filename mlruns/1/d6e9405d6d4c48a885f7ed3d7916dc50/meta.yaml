@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MorelRob/Documents/Python/healthcare-prediction-analysis/mlruns/1/d6e9405d6d4c48a885f7ed3d7916dc50/artifacts
+end_time: 1614015052337
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d6e9405d6d4c48a885f7ed3d7916dc50
+run_uuid: d6e9405d6d4c48a885f7ed3d7916dc50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1614015051989
+status: 3
+tags: []
+user_id: MorelRob

@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/MorelRob/Documents/Python/healthcare-prediction-analysis/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: health_prediction_analysis

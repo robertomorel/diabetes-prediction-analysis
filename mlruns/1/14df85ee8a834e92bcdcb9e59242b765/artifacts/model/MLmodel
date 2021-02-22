@@ -1,0 +1,25 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.5
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: 14df85ee8a834e92bcdcb9e59242b765
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "gender", "type": "long"}, {"name": "age", "type": "double"},
+    {"name": "hypertension", "type": "long"}, {"name": "heart_disease", "type": "long"},
+    {"name": "ever_married", "type": "long"}, {"name": "work_type", "type": "long"},
+    {"name": "Residence_type", "type": "long"}, {"name": "avg_glucose_level", "type":
+    "double"}, {"name": "bmi", "type": "double"}, {"name": "smoking_status", "type":
+    "long"}]'
+  outputs: null
+utc_time_created: '2021-02-22 17:52:34.067531'
