@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MorelRob/Documents/Python/healthcare-prediction-analysis/mlruns/1/0ca90a84e8654f81a616a5319559da18/artifacts
+end_time: 1614080540712
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 0ca90a84e8654f81a616a5319559da18
+run_uuid: 0ca90a84e8654f81a616a5319559da18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1614080540547
+status: 4
+tags: []
+user_id: Venicius

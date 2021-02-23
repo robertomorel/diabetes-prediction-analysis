@@ -1,0 +1,2 @@
+LinearRegression(copy_X=True, fit_intercept=True, n_jobs=-1, normalize=False,
+                 positive=False)
