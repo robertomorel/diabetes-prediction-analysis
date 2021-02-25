@@ -3,7 +3,7 @@
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
-#### OBJETIVO 🤔
+#### Objetivo 🤔
 Desenvolvimento de um sistema em [Python](https://docs.python.org/3/) para análise completa de uma base de dados de referência de Stroke. 
 
 >  Analisar base de dados e identificar as características de cada feature em relação à saída
@@ -14,7 +14,7 @@ Desenvolvimento de um sistema em [Python](https://docs.python.org/3/) para anál
 
 ----------------------------
 
-#### Features 
+#### Features 📃
 Consideradas todas as entradas da base de dados
 > - Gender: "Male", "Female" or "Other";
 > - Age: age of the patient;
@@ -27,14 +27,21 @@ Consideradas todas as entradas da base de dados
 > - Bmi: body mass índex;
 > - Smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown";
 
+##### Arquivos Importantes
+| Tipo  |  Nome  |
+| ------------------- | ------------------- |
+|  Projeto Python |  [stroke-prediction-analysis](https://github.com/robertomorel/healthcare-prediction-analysis/blob/master/stroke-prediction-analysis.ipynb) |
+|  Base de Dados |  [healthcare-dataset-stroke-data](https://github.com/robertomorel/healthcare-prediction-analysis/blob/master/healthcare-dataset-stroke-data.csv) |
+|  Canvas |  [Canvas](https://github.com/robertomorel/healthcare-prediction-analysis/blob/master/Canvas.docx) |
+
 ----------------------------
 
-#### BIBLIOTECAS DO PROJETO
+#### Bibliotecas 📚
 * IDE [ Pychart ](https://www.jetbrains.com/pt-br/pycharm/)
 * IDE [ Jupyter ](https://jupyter.org/)
 
 ----------------------------
-#### Colaboradores
+#### Colaboradores 🧤
 [ Roberto Bezerra Morel Lopes ](https://www.linkedin.com/in/roberto-morel-6b9065193/)
 
 [ Lucas Martins Belmino ](https://www.linkedin.com/in/)
